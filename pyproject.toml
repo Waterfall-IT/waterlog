@@ -1,0 +1,18 @@
+[project]
+name = 'waterlog'
+version = '0.1.0'
+description = 'Tiny logger'
+authors = [
+    {name = 'R1senDev', email = '99139074+R1senDev@users.noreply.github.com'}
+]
+readme = 'README.md'
+classifiers = [
+    'Programming Language :: Python :: 3',
+    'Operating System :: OS Independent',
+]
+dependencies = [
+    'colorama'
+]
+
+[project.urls]
+Homepage = 'https://github.com/Waterfall-IT/waterlog'
