@@ -1,6 +1,6 @@
 [project]
 name = 'waterlog'
-version = '0.1.0'
+version = '0.1.1'
 description = 'Tiny logger'
 authors = [
     {name = 'R1senDev', email = '99139074+R1senDev@users.noreply.github.com'}
